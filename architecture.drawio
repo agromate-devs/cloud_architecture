@@ -1,6 +1,6 @@
-<mxfile modified="2023-09-16T09:03:04.361Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="2KavdZ89wUBnXKqH8ZlU" version="21.7.5" type="github">
+<mxfile modified="2023-09-16T09:04:04.427Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="RtX8y6aRKlfZCa8cgwyt" version="21.7.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1150" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,6 +182,12 @@
         </mxCell>
         <mxCell id="1DUO-ZfJQV2c34KI3G3T-61" value="devices table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="729" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUO-ZfJQV2c34KI3G3T-62" value="Agrosmart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUO-ZfJQV2c34KI3G3T-63" value="Dettagli pianta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="735" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
